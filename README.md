@@ -24,7 +24,7 @@ I'm a developer working for a Solution company.
 * Technical Support Team intern at [secucen](http://www.secucen.com/) (2020.07 ~ 2020.08)
 
 ### Education
-* Enterprise Data Protection Capabilities Enhancement Process, [KITRI]([https://www.kitri.re.kr/](https://www.kitri.re.kr/kitri/main/main.web)), Korea Information Technology Institute. (2022.10)
+* Enterprise Data Protection Capabilities Enhancement Process, [KITRI]([https://www.kitri.re.kr/](https://www.kitri.re.kr/kitri/main/main.web), Korea Information Technology Institute. (2022.10)
 * Department of Multimedia , Chung Woon University. (2015.03 ~ 2021.02)
 * Dorim High School, Incheon, South Korea (2012.03 ~ 2015.02)
 
