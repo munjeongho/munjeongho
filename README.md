@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 I'm a developer working for a Solution company.
 
 ### Work Experiences
-* Software Engineer at [ACNS](www.acns.co.kr/), Document-related solution developers. (2020.12 ~ )
-* Technical Support Team intern at [secucen](www.secucen.com/) (2020.07 ~ 2020.08)
+* Software Engineer at [ACNS](https://www.acns.co.kr/), Document-related solution developers. (2020.12 ~ )
+* Technical Support Team intern at [secucen](http://www.secucen.com/) (2020.07 ~ 2020.08)
 
 ### Education & Extracuricular Activities
 * Enterprise Data Protection Capabilities Enhancement Process, [KITRI](www.kitri.re.kr/), Korea Information Technology Institute. (2022.10)
