@@ -37,4 +37,6 @@ I'm a developer working for a Solution company.
 - tech blog: https://endmemories.tistory.com/
 - email: 96mjh00@gmail.com
 
+<!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmunjeongho&count_bg=%23CCCCCC&title_bg=%23AC0000&icon=&icon_color=%23EA6262&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+-->
