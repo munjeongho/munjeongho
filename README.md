@@ -23,7 +23,7 @@ I'm a developer working for a Solution company.
 * Software Engineer at [ACNS](https://www.acns.co.kr/), Document-related solution developers. (2020.12 ~ )
 * Technical Support Team intern at [secucen](http://www.secucen.com/) (2020.07 ~ 2020.08)
 
-### Education & Extracuricular Activities
+### Education
 * Enterprise Data Protection Capabilities Enhancement Process, [KITRI](www.kitri.re.kr/), Korea Information Technology Institute. (2022.10)
 * Department of Multimedia , Chung Woon University. (2015.03 ~ 2021.02)
 * Dorim High School, Incheon, South Korea (2012.03 ~ 2015.02)
