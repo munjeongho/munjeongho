@@ -23,7 +23,6 @@ I'm a developer working for a Solution company.
 data class MyProfile(
     val github: String = "munjeongho",
     val email: String = "96mjh00@gmail.com",
-    val linkedIn: String = "yourlinkedin",
     val techStack: List<String> = listOf( "Java", "Java Spring", "JavaScript", "Linux"),
     val interestStack: List<String> = listOf( "Kotlin", "TypeScript", "AWS" , "k8s" ),
     val education: List<String> = listOf("Multimedia at Your University", "Bootcamp Alumni")
