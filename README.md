@@ -46,7 +46,7 @@ data class MyProfile(
 * Department of Multimedia , Chung Woon University. (2015.03 ~ 2021.02)
 * Dorim High School, Incheon, South Korea (2012.03 ~ 2015.02)
 
-### Watch my snake🐍
+### 🐍snake🐍
 ![snake svg](https://github.com/munjeongho/munjeongho/blob/output/github-contribution-grid-snake.svg)
 
 
