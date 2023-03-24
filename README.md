@@ -19,6 +19,18 @@ Here are some ideas to get you started:
 👋 Hi! Welcome to my GitHub place for those who pass by as a stranger or my acquiantance.
 I'm a developer working for a Solution company.
 
+```kotlin
+data class MyProfile(
+    val github: String = "munjeongho",
+    val email: String = "96mjh00@gmail.com",
+    val linkedIn: String = "yourlinkedin",
+    val techStack: List<String> = listOf( "Java", "Java Spring", "JavaScript", "Linux"),
+    val interestStack: List<String> = listOf( "Kotlin", "TypeScript", "AWS" , "k8s" ),
+    val education: List<String> = listOf("Multimedia at Your University", "Bootcamp Alumni")
+)
+```
+
+
 ### Work Experiences
 * Software Engineer at [ACNS](https://www.acns.co.kr/), Document-related solution developers. (2020.12 ~ )
 * Technical Support Team intern at [secucen](http://www.secucen.com/) (2020.07 ~ 2020.08)
