@@ -39,11 +39,11 @@ data class MyProfile(
 * Department of Multimedia , Chung Woon University. (2015.03 ~ 2021.02)
 * Dorim High School, Incheon, South Korea (2012.03 ~ 2015.02)
 
-### Watch my contribution graph get eaten by the snake🐍
+### Watch my snake🐍
 ![snake svg](https://github.com/munjeongho/munjeongho/blob/output/github-contribution-grid-snake.svg)
 
 
-### 📫 How to reach me
+### 📫 Contect
 - linkedin: www.linkedin.com/in/munjeongho1
 - tech blog: https://endmemories.tistory.com/
 - email: 96mjh00@gmail.com
