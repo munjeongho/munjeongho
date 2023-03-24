@@ -38,7 +38,7 @@ data class MyProfile(
 
 ### Work Experiences
 * Software Engineer at [ACNS](https://www.acns.co.kr/), Document-related solution developers. (2021.09 ~ )
-* consultant at [ACNS](https://www.acns.co.kr/), it consultant. (2020.12 ~ 2021.08)
+* consultant at [ACNS](https://www.acns.co.kr/), Information Technology Consultant. (2020.12 ~ 2021.08)
 * Technical Support Team intern at [secucen](http://www.secucen.com/) (2020.07 ~ 2020.08)
 
 ### Education
