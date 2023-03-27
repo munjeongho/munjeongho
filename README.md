@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 
 ### JeongHo Mun
 
-👋 Hi! Welcome to my GitHub place for those who pass by as a stranger or my acquiantance.
+👋 Hi! Thank you for visiting my GitHub profile
 I'm a developer working for a Solution company.
+Here you can find repositories that I'm personally interested in projects
+If you have any skills or projects that interest me, feel free to contact me!
+Thank you! 😊
 
 ```kotlin
 data class MyProfile(
