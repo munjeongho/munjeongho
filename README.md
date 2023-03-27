@@ -16,10 +16,14 @@ Here are some ideas to get you started:
 
 ### JeongHo Mun
 
-👋 Hi! Thank you for visiting my GitHub profile. &nbsp
-I'm a developer working for a Solution company.  &nbsp
-Here you can find repositories that I'm personally interested in projects. &nbsp
-If you have any skills or projects that interest me, feel free to contact me! &nbsp
+👋 Hi! Thank you for visiting my GitHub profile.
+
+I'm a developer working for a Solution company.
+
+Here you can find repositories that I'm personally interested in projects.
+
+If you have any skills or projects that interest me, feel free to contact me!
+
 Thank you! 😊
 
 ```kotlin
@@ -57,9 +61,9 @@ data class MyProfile(
 
 
 ### 📫 Contect
-- linkedin: www.linkedin.com/in/munjeongho1
-- tech blog:
-- email: 96mjh00@gmail.com
+- linkedin : www.linkedin.com/in/munjeongho1
+- tech blog :
+- email : 96mjh00@gmail.com
 
 <!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmunjeongho&count_bg=%23CCCCCC&title_bg=%23AC0000&icon=&icon_color=%23EA6262&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
