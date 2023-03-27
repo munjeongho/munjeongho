@@ -58,7 +58,7 @@ data class MyProfile(
 
 ### 📫 Contect
 - linkedin: www.linkedin.com/in/munjeongho1
-- tech blog: https://endmemories.tistory.com/
+- tech blog:
 - email: 96mjh00@gmail.com
 
 <!--
