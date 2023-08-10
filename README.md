@@ -58,10 +58,18 @@ data class MyProfile(
 
 ### 🐍snake🐍
 <picture>
-    <img
+    <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/munjeongho/munjeongho/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/munjeongho/munjeongho/output/github-contribution-grid-snake.svg"
+  />
+  <img
     alt="github contribution grid snake animation"
-    src="https://github.com/munjeongho/munjeongho/blob/output/github-contribution-grid-snake.svg"
-    />
+    src="https://raw.githubusercontent.com/munjeongho/munjeongho/output/github-contribution-grid-snake.svg"
+  />
 </picture>
 
 ### 📫 Contect
