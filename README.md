@@ -57,8 +57,12 @@ data class MyProfile(
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdghqkenr)](https://solved.ac/wjdghqkenr/)
 
 ### 🐍snake🐍
-![snake svg](https://github.com/munjeongho/munjeongho/blob/output/github-contribution-grid-snake.svg)
-
+<picture>
+    <img
+    alt="github contribution grid snake animation"
+    src="https://github.com/munjeongho/munjeongho/blob/output/github-contribution-grid-snake.svg"
+    />
+</picture>
 
 ### 📫 Contect
 - linkedin : www.linkedin.com/in/munjeongho1
