@@ -31,7 +31,7 @@ data class MyProfile(
     val github: String = "munjeongho",
     val email: String = "96mjh00@gmail.com",
     val techStack: List<String> = listOf( 
-        "Java", "Java Spring", "JavaScript", "RDBMS", "Linux" 
+        "Java", "Spring", "JavaScript", "RDBMS", "Linux" 
     ),
     val interestStack: List<String> = listOf( 
         "Kotlin", "TypeScript", "Go", "R", "AWS", "k8s" 
