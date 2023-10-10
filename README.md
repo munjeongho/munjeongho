@@ -34,10 +34,7 @@ data class MyProfile(
         "Java", "Spring", "JavaScript", "RDBMS", "Linux" 
     ),
     val interestStack: List<String> = listOf( 
-        "Kotlin", "TypeScript", "Go", "R", "AWS", "k8s" 
-    ),
-    val education: List<String> = listOf(
-        "Multimedia at ChungWoon Univ."
+        "Kotlin", "TypeScript", "Go", "Python", "AWS", "k8s" 
     )
 )
 ```
