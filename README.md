@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-### JeongHo Mun
+### MUN JEONGHO
 
 👋 Hi! Thank you for visiting my GitHub profile.
 
