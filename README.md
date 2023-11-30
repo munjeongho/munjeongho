@@ -68,8 +68,5 @@ data class MyProfile(
   />
 </picture>
 
-### 📫 Contect
 
-<!--
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmunjeongho&count_bg=%23CCCCCC&title_bg=%23AC0000&icon=&icon_color=%23EA6262&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
--->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmunjeongho%2F&count_bg=%2361CAEF&title_bg=%23511616&icon=&icon_color=%23A82727&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
