@@ -33,7 +33,7 @@ data class MyProfile(
         "Java", "Spring", "JavaScript", "RDBMS", "Linux" 
     ),
     val interestStack: List<String> = listOf( 
-        "Kotlin", "TypeScript", "Go", "Python", "AWS", "k8s" 
+        "Kotlin", "Go", "Python", "AWS", "k8s" 
     )
 )
 ```
