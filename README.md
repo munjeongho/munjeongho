@@ -69,4 +69,4 @@ data class MyProfile(
 </picture>
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmunjeongho%2F&count_bg=%2361CAEF&title_bg=%23511616&icon=&icon_color=%23A82727&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hitmeup-backend-593087166771.asia-northeast1.run.app/api/count/increment?url=https%3A%2F%2Fgithub.com%2Fmunjeongho&title=hits&title_bg=555555&count_bg=ff0000&edge_flat=false)](https://hitmeup-backend-593087166771.asia-northeast1.run.app)
