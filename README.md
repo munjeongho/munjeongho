@@ -30,10 +30,10 @@ Thank you! 😊
 data class MyProfile(
     val github: String = "munjeongho",
     val techStack: List<String> = listOf( 
-        "Java", "Spring Framework", "JavaScript", "RDBMS", "Linux" 
+        "Java", "Spring Framework", "RDBMS", "Linux" 
     ),
     val interestStack: List<String> = listOf( 
-        "Kotlin", "AWS", "k8s", "Go" 
+        "Kotlin", "AWS"
     )
 )
 ```
