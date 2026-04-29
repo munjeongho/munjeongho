@@ -48,9 +48,6 @@ data class MyProfile(
 * Enterprise Data Protection Capabilities Enhancement Process, [KITRI](https://www.kitri.re.kr/kitri/main/main.web), Korea Information Technology Institute. (2022.10)
 * Department of Multimedia , Chung Woon University. (2015.03 ~ 2021.02)
 
-### ⚡algorithm⚡
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdghqkenr)](https://solved.ac/wjdghqkenr/)
-
 ### 🐍snake🐍
 <picture>
     <source
